@@ -1,2 +1,1 @@
-# CairoQuest
- CairoQuest for node guardians
+# Cairo Quest Example

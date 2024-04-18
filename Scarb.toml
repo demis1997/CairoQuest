@@ -1,0 +1,11 @@
+[package]
+name = "src"
+version = "1.3.0"
+cairo-version = "2.5.3"
+
+[tool.NodeGuardians]
+part_1 = "Time Chamber"
+part_2 = "Training Setup"
+part_3 = "Training"
+
+# See more keys and their definitions at https://docs.swmansion.com/scarb/docs/reference/manifest
