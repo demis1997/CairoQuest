@@ -16,6 +16,14 @@ fn setDoubleHeadedBoar () -> Boar {
     return doubleHeadedBoar;
 }
 
+fn setFightingStance () -> Boar {
+ let mut stance = Fighter {
+    id:2, attack: 10, health: 40, xp_on_death: 50,
+    };
+
+    return stance;
+}
+
 fn setSimpleBoar () -> Boar {
  let mut simpleBoar = Boar {
     id:3,attack: 5, health: 20, xp_on_death: 25,
